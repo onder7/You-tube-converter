@@ -1,0 +1,1 @@
+config.ini düzeltmeniz gerekir
