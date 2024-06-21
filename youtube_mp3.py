@@ -1,4 +1,4 @@
-
+//bir metin dosyasındaki YouTube URL sini okuyup videoları indirir ve MP3 formatına dönüştürür.
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
